@@ -26,6 +26,8 @@ This project is a **minimal audio amplifier circuit** using a single **NPN BJT**
 - Beginner-friendly design with minimal components
 
 🔧 Componenets
+
+
 1.Transistor
 
 2.Coupling capacitors
