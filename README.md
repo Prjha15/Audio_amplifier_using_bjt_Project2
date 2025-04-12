@@ -1,4 +1,4 @@
- 🔊 Simple BJT Audio Amplifier (Common Emitter)
+ 🔊 ***Simple BJT Audio Amplifier (Common Emitter)***
  
 
 This project is a **minimal audio amplifier circuit** using a single **NPN BJT** in **common emitter configuration**. It takes a weak microphone signal and amplifies it enough to be used with basic audio devices like headphones or an oscilloscope.
@@ -27,8 +27,12 @@ This project is a **minimal audio amplifier circuit** using a single **NPN BJT**
 
 🔧 Componenets
 1.Transistor
+
 2.Coupling capacitors
+
 3.Supply voltage
+
 4.Resistors
+
 5.Output Load
 
