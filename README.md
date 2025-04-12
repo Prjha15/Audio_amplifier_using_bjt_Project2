@@ -9,7 +9,7 @@ This project is a **minimal audio amplifier circuit** using a single **NPN BJT**
  [MICROPHONE] → [COUPLING CAPACITOR] → [BJT(COMMON EMMITER)] → [OUTPUT]
 
 
-#THE ABOVE CIRCUIT IS DESIGNED LT SPICE ,SO WE WILL BE USING AC SIGNAL OF LOW FREQUENCY IN PLACE OF MICROPHONE AS LT SPICE DO NOT SUPPORT MICROPHONE.
+#THE ABOVE CIRCUIT IS DESIGNED IN LT SPICE ,SO WE WILL BE USING AC SIGNAL OF LOW FREQUENCY IN PLACE OF MICROPHONE AS LT SPICE DO NOT SUPPORT MICROPHONE.
 
 
 🎯 Objective
@@ -28,13 +28,13 @@ This project is a **minimal audio amplifier circuit** using a single **NPN BJT**
 🔧 Componenets
 
 
-1.Transistor
+ 1.Transistor
 
-2.Coupling capacitors
+ 2.Coupling capacitors
 
-3.Supply voltage
+ 3.Supply voltage
 
-4.Resistors
+ 4.Resistors
 
-5.Output Load
+ 5.Output Load
 
